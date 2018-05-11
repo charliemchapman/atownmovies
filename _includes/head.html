@@ -1,0 +1,23 @@
+<head>
+  <meta charset="UTF-8">
+  <title>{{ site.title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#157878">
+  <meta name="description" content="An entertainment podcast by two dudes from the Midwest.">
+  <meta property="fb:app_id" content="321000698338630" />
+  <meta property="og:title" content="{{ page.title }}"/>
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="http://atownfm.com{{ page.url }}" />
+  {% if page.imageUrl != null %}
+  <meta property="og:image" content="{{ page.imageUrl }}"/>
+  {% else %}
+  <meta property="og:image" content="http://atownfm.com/assets/a-town_logo_09.jpg"/>
+  {% endif %}
+  <meta property="og:site_name" content="A-Town"/>
+  <meta property="og:description" content="An entertainment podcast by two dudes from the Midwest."/>
+  <link rel="icon" type="image/x-icon" href="./a-town_favicon_01.ico">
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/normalize.css">
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/cayman.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/styles.css">
+</head>

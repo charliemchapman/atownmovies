@@ -1,0 +1,32 @@
+---
+layout: default
+title: A-Town
+permalink: episodes/
+sitemap:
+    priority: 0.7
+    changefreq: 'monthly'
+    lastmod: 2017-07-23T12:49:30-05:00
+---
+
+<div id="home" class="episodes">
+  <h1>Episodes</h1>
+  <div class="posts">
+    {% for post in site.posts %}
+    <div class="post-content__header-container">
+      <div class="post-content__img">
+          <img src="{{ post.imageUrl }}"/>
+      </div>
+      <div>
+      <div>
+        <a class="post-header-link" href="{{ site.baseurl }}{{ post.url }}">
+            #{{post.number}} - {{ post.title }}
+        </a>
+        <div class="post-meta">
+            <p class="meta">{{ post.date | date_to_string }}</p>
+        </div>    
+      </div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</div>

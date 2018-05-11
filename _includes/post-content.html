@@ -1,0 +1,26 @@
+<a class="post-header-link" href="{{ site.baseurl }}{{ post.url }}">
+    #{{post.number}} - {{ post.title }}
+</a>
+<div class="post-meta">
+    <p class="meta">{{ include.post.date | date_to_string }}</p>
+
+    <div class="post-links">
+        <a class="subscribe-itunes" href="https://itunes.apple.com/us/podcast/a-town/id1257353761?mt=2">
+            <img src="/assets/subscribe-links/subscribe-itunes.svg">
+        </a>
+        <a class="subscribe-overcast" href="https://overcast.fm/itunes1257353761/a-town">
+            <img src="/assets/subscribe-links/subscribe-overcast.svg">
+        </a>
+        <a class="subscribe-rss" href="http://podcast.atownfm.com">
+            <img src="/assets/subscribe-links/subscribe-rss.svg">
+        </a>
+        <a class="subscribe-googleplay" href="https://play.google.com/music/m/Iulmtptxmmizbms4xepnxmxpujy?t=A-Town">
+            <img src="/assets/subscribe-links/subscribe-googleplay.png">
+        </a>
+    </div>
+</div>
+
+<div class="post-content">
+    {% include audio-player-wide.html playerId=include.post.podbeanId %}
+    {{ post.content }}
+</div>

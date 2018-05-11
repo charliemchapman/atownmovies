@@ -1,0 +1,18 @@
+---
+layout: home
+title: A-Town at the Movies
+sitemap:
+    priority: 0.7
+    changefreq: 'monthly'
+    lastmod: 2017-07-23T12:49:30-05:00
+---
+
+<div id="home">
+  {% for post in site.posts limit:5 %}
+    <div class="post">
+      {% include post-content.html post=post %}
+    </div>
+  {% endfor %}
+
+  <a href="{{ site.baseurl }}/episodes">- All Episodes -</a>
+</div>
