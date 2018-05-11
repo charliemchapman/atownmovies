@@ -1,7 +1,7 @@
 ---
 layout: post
-number: 44
-title:  "Avengers: Infinity War"
+number: 0.13
+title:  "Avengers: Infinity War (A-Town Rerelease)"
 date:   2018-05-06 7:00:00
 categories: episodes
 podbeanId: "6aqs3-90aa8d"
