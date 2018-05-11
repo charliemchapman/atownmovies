@@ -122,8 +122,12 @@
 }
 
 .post-header-link{
-    color: #159957;
+    color: #b7281b;
     font-size: 1.5em;
+}
+
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+    color: #b7281b;
 }
 
 .post-meta{
