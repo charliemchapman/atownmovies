@@ -23,7 +23,7 @@
 
 .page-header .home-links a{
     display: inline-block;
-    width: 80px;
+    width: 85px;
     color: #999;
 }
 
@@ -93,7 +93,7 @@
     }
 
     .subpage-header .home-links a{
-        width: 80px;
+        width: 85px;
     }
 
     .subpage-header .home-links .spacer{
