@@ -236,3 +236,17 @@
 .episodes .post-header-link {
     font-size: 1em;
 }
+
+.audio-player {
+    display: flex;
+    align-items: center;
+}
+
+.audio-player img {
+    height: 60px;
+    margin-right: 10px;
+}
+
+.audio-player audio {
+    width: 100%;
+}

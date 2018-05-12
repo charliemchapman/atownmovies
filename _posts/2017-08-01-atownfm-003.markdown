@@ -4,7 +4,6 @@ number: 0.03
 title:  "War for the Planet of the Apes (A-Town Rerelease)"
 date:   2017-08-01 9:00:00
 categories: episodes
-podbeanId: "v3ke5-6db971"
 imageUrl: "http://atownfm.com/assets/a-town_icon_eps_005.jpg"
 ---
 

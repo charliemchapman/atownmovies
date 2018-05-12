@@ -4,7 +4,6 @@ number: 0.05
 title:  "Blade Runner 2049 (A-Town Rerelease)"
 date:   2017-10-11 7:00:00
 categories: episodes
-podbeanId: "7fg44-773840"
 imageUrl: "http://atownfm.com/assets/a-town_icon_eps_016-BR2016_01.png"
 ---
 

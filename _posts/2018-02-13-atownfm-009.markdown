@@ -4,7 +4,6 @@ number: 0.09
 title:  "Cloverfield Paradox (A-Town Rerelease)"
 date:   2018-02-13 12:00:00
 categories: episodes
-podbeanId: "xuw8x-886771"
 imageUrl: "http://atownfm.com/assets/a-town_icon_eps_033-cloverfield-paradox.jpg"
 ---
 

@@ -4,7 +4,6 @@ number: 0.10
 title:  "Black Panther (A-Town Rerelease)"
 date:   2018-02-22 7:00:00
 categories: episodes
-podbeanId: "g4mr6-8a2b05"
 imageUrl: "http://atownfm.com/assets/a-town_icon_eps_035-black-panther.jpg"
 ---
 

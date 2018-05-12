@@ -4,7 +4,6 @@ number: 0.04
 title:  "Dunkirk (A-Town Rerelease)"
 date:   2017-08-03 9:00:00
 categories: episodes
-podbeanId: "bb2xt-6df0ba"
 imageUrl: "http://atownfm.com/assets/a-town_icon_eps_006.png"
 ---
 

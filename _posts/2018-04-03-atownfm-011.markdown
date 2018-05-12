@@ -4,7 +4,6 @@ number: 0.11
 title:  "Ready Player One (A-Town Rerelease)"
 date:   2018-04-03 7:00:00
 categories: episodes
-podbeanId: "f2dkg-8e80bb"
 imageUrl: "http://atownfm.com/assets/a-town_icon_eps_40_1400.jpg"
 ---
 

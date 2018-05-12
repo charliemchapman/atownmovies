@@ -4,7 +4,6 @@ number: 0.06
 title:  "Thor Ragnarok (A-Town Rerelease)"
 date:   2017-11-22 7:00:00
 categories: episodes
-podbeanId: "6x5u7-7ccd9a"
 imageUrl: "http://atownfm.com/assets/a-town_icon_eps_022-thor_1400.jpg"
 ---
 

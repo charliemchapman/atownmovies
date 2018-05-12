@@ -4,7 +4,6 @@ number: 0.07
 title:  "Justice League (A-Town Rerelease)"
 date:   2017-11-30 7:00:00
 categories: episodes
-podbeanId: "2mewy-7dca9e"
 imageUrl: "http://atownfm.com/assets/a-town_icon_eps_23_justice-league.jpg"
 ---
 

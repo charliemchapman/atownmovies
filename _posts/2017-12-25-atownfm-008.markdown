@@ -4,7 +4,6 @@ number: 0.08
 title:  "Star Wars: The Last Jedi (A-Town Rerelease)"
 date:   2017-12-24 7:00:00
 categories: episodes
-podbeanId: "7tem8-805403"
 imageUrl: "http://atownfm.com/assets/a-town_icon_eps_027-SW-TLJ_01.jpg"
 ---
 
