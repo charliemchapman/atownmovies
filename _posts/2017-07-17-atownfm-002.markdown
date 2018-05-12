@@ -5,6 +5,7 @@ title:  "Spider-Man Homecoming (A-Town Rerelease)"
 date:   2017-07-17 15:00:00
 categories: episodes
 imageUrl: "http://atownfm.com/assets/a-town_003_logo.jpg"
+source: "https://s3.us-east-2.amazonaws.com/charliemchapman-podcasts/atownmovies/audio/A-Town_003-SpidermanHomecoming_64bit.mp3"
 ---
 
 Welcome true believers!
