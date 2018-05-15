@@ -251,3 +251,26 @@
 .audio-player audio {
     width: 100%;
 }
+
+.show {
+    display: flex;
+}
+
+.show__img {
+    flex-shrink: 0;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    max-width: 130px;
+    width: 20%;
+    display: block;
+}
+
+.show__title {
+    font-size: 1em;
+    color: #b7281b;
+}
+
+.show__description {
+    font-size: 0.75em;
+    margin-top: 5px;
+}
