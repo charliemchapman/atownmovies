@@ -1,0 +1,14 @@
+---
+layout: post
+number: 1
+title:  "Solo"
+date:   2018-05-21 7:00:00
+categories: episodes
+imageUrl: "http://atownmovies.com/assets/at-movies_001_solo.jpg"
+source: ""
+---
+
+Solo
+
+#### Show Notes:
+- [Solo](https://www.imdb.com/title/tt3778644/)
