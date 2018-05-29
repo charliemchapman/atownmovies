@@ -5,7 +5,7 @@ title:  "Baby Driver (A-Town Rerelease)"
 date:   2017-07-13 15:00:00
 categories: episodes
 imageUrl: "http://atownfm.com/assets/a-town_002_logo.jpg"
-source: "https://s3.us-east-2.amazonaws.com/charliemchapman-podcasts/atownmovies/audio/A-Town_002-BabyDriver_64bit.mp3"
+source: "http://dts.podtrac.com/redirect.mp3/media.blubrry.com/atownmovies/podcast.atownmovies.com/audio/A-Town_002-BabyDriver_64bit.mp3"
 ---
 
 On this weeks episode our two heroes give us a stream of consciousness of Edgar Wright's masterpiece film "Baby Driver" upon exiting the theater.

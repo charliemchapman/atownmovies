@@ -5,7 +5,7 @@ title:  "Ready Player One (A-Town Rerelease)"
 date:   2018-04-03 7:00:00
 categories: episodes
 imageUrl: "http://atownfm.com/assets/a-town_icon_eps_40_1400.jpg"
-source: "https://s3.us-east-2.amazonaws.com/charliemchapman-podcasts/atownmovies/audio/A-Town_040_ReadyPlayerOne.mp3"
+source: "http://dts.podtrac.com/redirect.mp3/media.blubrry.com/atownmovies/podcast.atownmovies.com/audio/A-Town_040_ReadyPlayerOne.mp3"
 ---
 
 This week we put on our VR (AR?) goggles and collect all the keys to unlock Spielberg's latest film: Ready Player One.

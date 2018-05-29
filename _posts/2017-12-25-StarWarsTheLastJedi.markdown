@@ -5,7 +5,7 @@ title:  "Star Wars: The Last Jedi (A-Town Rerelease)"
 date:   2017-12-24 7:00:00
 categories: episodes
 imageUrl: "http://atownfm.com/assets/a-town_icon_eps_027-SW-TLJ_01.jpg"
-source: "https://s3.us-east-2.amazonaws.com/charliemchapman-podcasts/atownmovies/audio/A-Town_027_StarWars-TLJ_64bit.mp3"
+source: "http://dts.podtrac.com/redirect.mp3/media.blubrry.com/atownmovies/podcast.atownmovies.com/audio/A-Town_027_StarWars-TLJ_64bit.mp3"
 ---
 
 Episode XXVII

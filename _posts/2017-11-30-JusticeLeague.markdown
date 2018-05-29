@@ -5,7 +5,7 @@ title:  "Justice League (A-Town Rerelease)"
 date:   2017-11-30 7:00:00
 categories: episodes
 imageUrl: "http://atownfm.com/assets/a-town_icon_eps_23_justice-league.jpg"
-source: "https://s3.us-east-2.amazonaws.com/charliemchapman-podcasts/atownmovies/audio/A-Town_023_JusticeLeague_64bit.mp3"
+source: "http://dts.podtrac.com/redirect.mp3/media.blubrry.com/atownmovies/podcast.atownmovies.com/audio/A-Town_023_JusticeLeague_64bit.mp3"
 ---
 
 On this weeks episode the A-Town Society of Friends review the newest edition to the DCEU with special guest Zack Buck! Through brightest day and darkest night, no detail escapes our sight!
