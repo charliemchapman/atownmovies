@@ -19,12 +19,11 @@
 .page-header .home-links{
     margin-top: 10px;
     margin-bottom: 20px;
-    font-size: .95em;
 }
 
 .page-header .home-links a{
     display: inline-block;
-    width: 85px;
+    width: 80px;
     color: #999;
 }
 
@@ -94,7 +93,7 @@
     }
 
     .subpage-header .home-links a{
-        width: 85px;
+        width: 80px;
     }
 
     .subpage-header .home-links .spacer{
