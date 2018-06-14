@@ -1,0 +1,24 @@
+---
+layout: post
+number: 3
+title:  "I, Tonya"
+date:   2018-06-13 7:00:00
+categories: episodes
+imageUrl: "http://atownmovies.com/assets/at-movies_eps_003_i-tonya.jpg"
+source: "http://dts.podtrac.com/redirect.mp3/media.blubrry.com/atownmovies/podcast.atownmovies.com/audio/at-movies_003_i-tonya.mp3"
+---
+
+The guys discuss the critical hit film I, Tonya!
+
+Note: the views expressed in this podcast episode are based on poorly researched and completely contradictory opinions with the two hosts.
+
+#### Show Notes:
+- [I, Tonya](https://www.imdb.com/title/tt5580036/)
+- [30 fo 30: The Price of Gold (Documentary)](https://www.imdb.com/title/tt3417870/)
+- [A Very Fatal Murder](https://www.theonion.com/c/a-very-fatal-murder)
+- [Public Enemies](https://www.imdb.com/title/tt1152836/)
+- [The Big Short](https://www.imdb.com/title/tt1596363/)
+- [Lady Bird](https://www.imdb.com/title/tt4925292/)
+- [I, Tonya Visual Effects Feature](https://www.youtube.com/watch?v=bqgD6lHrQ_8)
+- [1994 Winter Olympics](https://en.wikipedia.org/wiki/1994_Winter_Olympics)
+- [Oceans 8](https://www.imdb.com/title/tt5164214/)
