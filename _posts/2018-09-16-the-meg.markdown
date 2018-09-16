@@ -1,0 +1,18 @@
+---
+layout: post
+number: 7
+title:  "Jaws: Fallen Kingdom (The Meg)"
+date:   2018-09-16 7:00:00
+categories: episodes
+imageUrl: "https://s3.us-east-2.amazonaws.com/podcast.atownmovies.com/images/at-movies_007_the-meg_02.jpg"
+source: "http://dts.podtrac.com/redirect.mp3/media.blubrry.com/atownmovies/s3.us-east-2.amazonaws.com/podcast.atownmovies.com/audio/at-movies_007_the-meg.mp3"
+---
+
+This week our hosts review the film of our age, The Meg. A Melvillian tale about a man overcoming his demons to live again, The Meg will surely delight the poets in us all for ages to come. So buckle up in your Naboo ships and prepare to enter the trench!
+
+#### Show Notes:
+- [The Meg](https://www.imdb.com/title/tt4779682/)
+- [Valerian and the City of a Thousand Planets](https://www.imdb.com/title/tt2239822/)
+
+- [Patreon](https://www.patreon.com/atownfm)
+- [atownmovies.com](http://atownmovies.com/)
