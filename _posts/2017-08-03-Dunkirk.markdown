@@ -4,7 +4,7 @@ number: 0.04
 title:  "Dunkirk (A-Town Rerelease)"
 date:   2017-08-03 9:00:00
 categories: episodes
-imageUrl: "http://atownfm.com/assets/a-town_icon_eps_006.png"
+imageUrl: "https://s3.us-east-2.amazonaws.com/podcast.atownmovies.com/images/at-fm_006-dunkirk.jpg"
 source: "http://dts.podtrac.com/redirect.mp3/media.blubrry.com/atownmovies/podcast.atownmovies.com/audio/A-Town_006-Dunkirk_64bit.mp3"
 ---
 

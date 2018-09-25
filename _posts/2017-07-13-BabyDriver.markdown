@@ -4,7 +4,7 @@ number: 0.01
 title:  "Baby Driver (A-Town Rerelease)"
 date:   2017-07-13 15:00:00
 categories: episodes
-imageUrl: "http://atownfm.com/assets/a-town_002_logo.jpg"
+imageUrl: "https://s3.us-east-2.amazonaws.com/podcast.atownmovies.com/images/at-fm_002-baby-driver.jpg"
 source: "http://dts.podtrac.com/redirect.mp3/media.blubrry.com/atownmovies/podcast.atownmovies.com/audio/A-Town_002-BabyDriver_64bit.mp3"
 ---
 

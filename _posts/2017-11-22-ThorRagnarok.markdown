@@ -4,7 +4,7 @@ number: 0.06
 title:  "Thor Ragnarok (A-Town Rerelease)"
 date:   2017-11-22 7:00:00
 categories: episodes
-imageUrl: "http://atownfm.com/assets/a-town_icon_eps_022-thor_1400.jpg"
+imageUrl: "https://s3.us-east-2.amazonaws.com/podcast.atownmovies.com/images/at-fm_022-thor-ragnarok.jpg"
 source: "http://dts.podtrac.com/redirect.mp3/media.blubrry.com/atownmovies/podcast.atownmovies.com/audio/A-Town_022_Thor_64bit.mp3"
 ---
 
