@@ -5,7 +5,7 @@ title:  "Blade Runner 2049 (A-Town Rerelease)"
 date:   2017-10-11 7:00:00
 categories: episodes
 imageUrl: "https://s3.us-east-2.amazonaws.com/podcast.atownmovies.com/images/at-fm_016-blade-runner-2049.jpg"
-source: "http://dts.podtrac.com/redirect.mp3/media.blubrry.com/atownmovies/podcast.atownmovies.com/audio/A-Town_016_BladeRunner2049_64bit.mp3"
+source: "http://dts.podtrac.com/redirect.mp3/media.blubrry.com/atownmovies/s3.us-east-2.amazonaws.com/podcast.atownmovies.com/audio/A-Town_016_BladeRunner2049_64bit.mp3"
 ---
 
 In this episode, we review the new wildly successful totally not underperforming in the box office film Blade Runner 2049. In addition we mix in a whirlwind of Phillip K Dick adaptation talk, the Leto mystery box, and a pinch of dune film discussion.

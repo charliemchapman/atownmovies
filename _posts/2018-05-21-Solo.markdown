@@ -5,7 +5,7 @@ title:  "Solo: A Star Wars Story"
 date:   2018-05-28 7:00:00
 categories: episodes
 imageUrl: "http://atownmovies.com/assets/at-movies_001_solo.jpg"
-source: "http://dts.podtrac.com/redirect.mp3/media.blubrry.com/atownmovies/podcast.atownmovies.com/audio/at-movies_001_solo.mp3"
+source: "http://dts.podtrac.com/redirect.mp3/media.blubrry.com/atownmovies/s3.us-east-2.amazonaws.com/podcast.atownmovies.com/audio/at-movies_001_solo.mp3"
 ---
 
 On this episode our hosts steal some HYPERFUEL and travel to a galaxy far far away to review the newest Starwars film Solo: A Star Wars Story. Does this film stand up to the Starwars franchise? Listen and find out!

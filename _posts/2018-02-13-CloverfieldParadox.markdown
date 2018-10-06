@@ -5,7 +5,7 @@ title:  "Cloverfield Paradox (A-Town Rerelease)"
 date:   2018-02-13 12:00:00
 categories: episodes
 imageUrl: "https://s3.us-east-2.amazonaws.com/podcast.atownmovies.com/images/at-fm_033-cloverfield-paradox.jpg"
-source: "http://dts.podtrac.com/redirect.mp3/media.blubrry.com/atownmovies/podcast.atownmovies.com/audio/A-Town_033_cloverfield-paradox.mp3"
+source: "http://dts.podtrac.com/redirect.mp3/media.blubrry.com/atownmovies/s3.us-east-2.amazonaws.com/podcast.atownmovies.com/audio/A-Town_033_cloverfield-paradox.mp3"
 ---
 
 🐙

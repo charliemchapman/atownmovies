@@ -5,7 +5,7 @@ title:  "Incredibles 2"
 date:   2018-06-28 7:00:00
 categories: episodes
 imageUrl: "http://atownmovies.com/assets/at-movies_eps_004_incredibles2.jpg"
-source: "http://dts.podtrac.com/redirect.mp3/media.blubrry.com/atownmovies/podcast.atownmovies.com/audio/at-movies_004_incredibles2.mp3"
+source: "http://dts.podtrac.com/redirect.mp3/media.blubrry.com/atownmovies/s3.us-east-2.amazonaws.com/podcast.atownmovies.com/audio/at-movies_004_incredibles2.mp3"
 ---
 
 Special guest Kristen replaces Dan this week as we discuss the 14 year follow up to Brad Bird's 2004 masterpiece of animation "The Incredibles".  Does "Incredibles 2" live up to the first? Listen to find out!
