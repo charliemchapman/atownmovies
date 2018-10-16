@@ -1,0 +1,21 @@
+---
+layout: post
+number: 9
+title:  "Whiplash"
+date:   2018-10-15 7:00:00
+categories: episodes
+imageUrl: "https://s3.us-east-2.amazonaws.com/podcast.atownmovies.com/images/at-movies_009_whiplash.jpg"
+source: "http://dts.podtrac.com/redirect.mp3/media.blubrry.com/atownmovies/s3.us-east-2.amazonaws.com/podcast.atownmovies.com/audio/at-movies_009_whiplash.mp3"
+---
+
+Grab your drumsticks and throw a cymbal at someone because this week we’re reviewing the Oscar winning film: Whiplash!
+
+#### Show Notes:
+- [Whiplash](https://www.imdb.com/title/tt2239822/)
+- [Damien Chazelle](https://www.imdb.com/name/nm3227090/)
+- [La La Land](https://www.imdb.com/title/tt3783958/)
+- [First Man](https://www.imdb.com/title/tt1213641/)
+
+- [Patreon](https://www.patreon.com/atownfm)
+- [A-Town Subreddit](https://www.reddit.com/r/atownfm/)
+- [atownmovies.com](http://atownmovies.com/)
