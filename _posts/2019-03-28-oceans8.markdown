@@ -1,0 +1,19 @@
+---
+layout: post
+number: 11
+title:  "Us"
+date:   2019-03-28 7:00:00
+categories: episodes
+imageUrl: "https://s3.us-east-2.amazonaws.com/podcast.atownmovies.com/images/at-movies_011_us.jpg"
+source: "http://dts.podtrac.com/redirect.mp3/media.blubrry.com/atownmovies/s3.us-east-2.amazonaws.com/podcast.atownmovies.com/audio/at-movies_011_us.mp3"
+---
+
+Grab your largest pair scissors because this week our hosts are taking on their tethered other halves as they review Jordan Peele's new film Us!
+
+#### Show Notes:
+- [Us (IMDB)](https://www.imdb.com/title/tt6857112/)
+- [Get Out (IMDB)](https://www.imdb.com/title/tt5052448/)
+
+- [Patreon](https://www.patreon.com/atownfm)
+- [A-Town Subreddit](https://www.reddit.com/r/atownfm/)
+- [atownmovies.com](http://atownmovies.com/)
